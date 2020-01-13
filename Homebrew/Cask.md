@@ -17,7 +17,7 @@ adding it as a tap:
 To see if an app is available on Cask you can search on the [official Cask
 website](https://caskroom.github.io/). You can also search in your terminal:
 
-    $ brew cask search <package>
+    $ brew search <package>
 
 ## Example Applications
 
@@ -49,7 +49,6 @@ Here are some useful apps that are available on Cask.
 $ brew cask install \
     alfred \
     android-file-transfer \
-    asepsis \
     appcleaner \
     caffeine \
     cheatsheet \
@@ -57,16 +56,12 @@ $ brew cask install \
     doubletwist \
     dropbox \
     google-chrome \
-    google-drive \
     google-hangouts \
     flux \
-    latexian \
     1password \
-    pdftk \
     spectacle \
     sublime-text \
     superduper \
-    totalfinder \
     transmission \
     valentina-studio \
     vlc
